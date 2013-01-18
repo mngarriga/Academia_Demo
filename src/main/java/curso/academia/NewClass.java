@@ -9,5 +9,9 @@ package curso.academia;
  * @author Usuario
  */
 public class NewClass {
+    private int x;
+
+    public NewClass() {
+    }
     
 }
